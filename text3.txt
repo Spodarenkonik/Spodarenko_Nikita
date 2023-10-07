@@ -1,0 +1,4 @@
+Spisok pokupok:
+PC
+tablet
+keyboard
